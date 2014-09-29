@@ -1,0 +1,12 @@
+0.mol2 is the quasi-ligand
+
+1.mol2 is ligand
+
+
+sphere_selector K145N.receptor.sph 0.mol2 12.0
+
+showbox < showbox.in
+
+grid -i grid.in
+
+for i in {1..11}; do dock6 -i dock${i}.in ; done
