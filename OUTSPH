@@ -1,0 +1,10 @@
+ density type = X
+ reading  K145N.receptor.dms                                                                 type   R
+ # of atoms =   2540   # of surf pts =  25002
+ finding spheres for   K145N.receptor.dms                                                              
+ dotlim =     0.000
+ radmax =    4.000
+ Minimum radius of acceptable spheres?
+   1.39999998    
+ output to  K145N.receptor.sph                                                              
+ clustering is complete     70  clusters
